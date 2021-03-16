@@ -1,6 +1,6 @@
-# SayHi Extension
+# Anypoint Custom Connector
 
-This is a simple template for creation of a custom plugin for Mulesoft Anypoint Studio based on the version 4 release.
+This is a simple template for creation of a custom connector for Mulesoft Anypoint Studio based on the version 4 release.
 
 
 Add this dependency to your application pom.xml
